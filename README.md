@@ -76,11 +76,12 @@ result_plot.png: Shows 4 predicted CIFAR-10 images with actual and predicted cla
 Applications of the Project
 
 This image classification project demonstrates real-world deep learning use cases:
-Computer Vision in Healthcare – Detecting diseases in X-rays, MRIs.
-Security & Surveillance – Classifying objects in CCTV footage.
-E-commerce – Automatic product categorization.
-Autonomous Vehicles – Recognizing road signs or objects.
-Mobile Apps – Image search, face filters, or object tagging.
+
+1. Computer Vision in Healthcare – Detecting diseases in X-rays, MRIs.
+2. Security & Surveillance – Classifying objects in CCTV footage.
+3. E-commerce – Automatic product categorization.
+4. Autonomous Vehicles – Recognizing road signs or objects.
+5. Mobile Apps – Image search, face filters, or object tagging.
 
 
 
